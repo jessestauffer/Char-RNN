@@ -1,4 +1,4 @@
-# CharRNN
+# Char-RNN
 Train a Character-RNN to generate new names.
 
 # How it works
